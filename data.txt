@@ -1,0 +1,3 @@
+Nombre: Sergio
+Edad: 28
+Color: Rojo
